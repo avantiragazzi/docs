@@ -1,11 +1,6 @@
 # Тестовая документация
-## Чек-лист тестирования Registration and Authorization, Product Catalog.
-https://docs.google.com/spreadsheets/d/1h0mrEkqtjpN59FZ-OfDx82ujIMOER-Jzdf153ugreSs/edit#gid=0
-## Тест-кейсы тестирования Registration and Authorization, Product Catalog.
-https://app.qase.io/project/G7?author=221&previewMode=side&suite=20&tab=properties
-## Тест-кейсы тестирования Registration and Authorization, Product Catalog. Pdf
-[Тест кейсы тестирования.pdf](https://github.com/avantiragazzi/docs/files/15214255/default.pdf)
-## Test-Run тестирования Registration and Authorization, Product Catalog. Pdf
-[Test run 2024.05.04.pdf](https://github.com/avantiragazzi/docs/files/15214257/Test.run.2024.05.04.pdf)
-## Отчет о дефектах Registration and Authorization, Product Catalog.
-[Отчет о дефекте.xlsx](https://github.com/avantiragazzi/docs/files/15214258/default.xlsx)
+## На основе макета, требований и артефактов, созданных в предыдущих заданиях(типы тестирования, проанализированные требования, тестовые данные, созданные на основе техник тест-дизайна) создаем [Чек-лист](https://docs.google.com/spreadsheets/d/1h0mrEkqtjpN59FZ-OfDx82ujIMOER-Jzdf153ugreSs/edit#gid=0) тестирования модуля Registration and Authorization, Product Catalog. 
+## На основе макета, требований и артефактов, созданных в предыдущих заданиях и уже имеющегося Чек-листа создаем [Тест-кейсы(pdf)](https://github.com/avantiragazzi/docs/files/15214255/default.pdf) для тестирования модуля Registration and Authorization, Product Catalog в Test Management System QASE.
+## Проводим [Test run.pdf](https://github.com/avantiragazzi/docs/files/15214257/Test.run.2024.05.04.pdf) из созданных Тест-кейсов для тестирования модуля Registration and Authorization, Product Catalog в Test Management System QASE.
+## Создаем [Отчет о дефекте.xlsx](https://github.com/avantiragazzi/docs/files/15214258/default.xlsx) по результатам тестирования модуля Registration and Authorization, Product Catalog в YouTrack
+
